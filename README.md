@@ -1,4 +1,4 @@
-# Many-Moving-Submission
+# Many Moving Submission
 Starter Code For GitHub Education
 
 A Computer Science 30 Assignment Submission Repository
